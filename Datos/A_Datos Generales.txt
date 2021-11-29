@@ -1,0 +1,7 @@
+Potencial entre terminales del tubo: 50V
+Voltage UH = 6.3V
+
+Cambio la temperatura: 150, 170, 190, 210 ºC
+
+Para cada temperatura cambio el 
+potencial de frenado: 0.5, 1.0 y 2.0 V
